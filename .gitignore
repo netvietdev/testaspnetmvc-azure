@@ -3,3 +3,6 @@
 ################################################################################
 
 /aspnetmvc5-azure/.vs/aspnetmvc5-azure/v15
+/aspnetmvc5-azure/aspnetmvc-webapp/bin
+/aspnetmvc5-azure/aspnetmvc-webapp/obj/Debug
+/aspnetmvc5-azure/packages
