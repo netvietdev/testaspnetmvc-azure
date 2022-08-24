@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using AspNetMvc5.DemoLib;
 using System.Web.Mvc;
 
 namespace aspnetmvc_webapp.Controllers
@@ -10,12 +7,14 @@ namespace aspnetmvc_webapp.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.ServerTimeNow = Utils.GetDateTimeNow();
+
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page.";            
 
             return View();
         }

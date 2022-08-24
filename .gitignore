@@ -10,3 +10,5 @@
 /.vs
 /aspnetmvc-webapp/obj/Debug
 /packages
+/AspNetMvc5.DemoLib/obj/Debug
+/AspNetMvc5.DemoLib/bin/Debug
