@@ -6,3 +6,7 @@
 /aspnetmvc5-azure/aspnetmvc-webapp/bin
 /aspnetmvc5-azure/aspnetmvc-webapp/obj/Debug
 /aspnetmvc5-azure/packages
+/aspnetmvc-webapp/bin
+/.vs
+/aspnetmvc-webapp/obj/Debug
+/packages
