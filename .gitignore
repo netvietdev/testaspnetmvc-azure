@@ -12,3 +12,6 @@
 /packages
 /AspNetMvc5.DemoLib/obj/Debug
 /AspNetMvc5.DemoLib/bin/Debug
+/AspNetMvc5.DemoLib/obj/Release
+/AspNetMvc5.DemoLib/bin/Release
+/aspnetmvc-webapp/obj/Release
